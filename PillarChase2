@@ -26,7 +26,7 @@ local Window = Rayfield:CreateWindow({
     }
  })
 
- local exampleTab = Window:CreateTab("Soni c", https://create.roblox.com/store/asset/10396165115/Sonicexe-Christmas-Summoner?keyword=sonic.exe&pageNumber=1&pagePosition=12) -- Title, Image
+ local exampleTab = Window:CreateTab("die", https://create.roblox.com/store/asset/10396165115/Sonicexe-Christmas-Summoner?keyword=sonic.exe&pageNumber=1&pagePosition=12) -- Title, Image
 
  local Button = exampleTab:CreateButton({
     Name = "ESP",
